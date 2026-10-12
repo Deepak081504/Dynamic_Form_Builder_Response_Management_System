@@ -1,0 +1,23 @@
+
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Frontend dependencies and builds
+node_modules/
+dist/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Test/cache files
+.pytest_cache/
+.coverage
